@@ -49,6 +49,11 @@ td i{
     background: #90A4AE;
 }
 
-.bg-deg{
+.pill-deg{
     background: #A1887F;
+    color: #fff;    
+    font-weight: 400;
+    font-size: .9rem;
+    padding: 0.5rem 1rem;    
+    
 }
