@@ -37,8 +37,9 @@ td i{
     color: #000;
     background: #FFD54F;
     font-weight: 400;
-    font-size: .9rem 1rem;
+    font-size: .9rem;
     padding: 0.5rem;
+    margin-bottom: .5rem;
 }
 
 .pill-pai{
@@ -55,5 +56,4 @@ td i{
     font-weight: 400;
     font-size: .9rem;
     padding: 0.5rem 1rem;    
-    
 }
