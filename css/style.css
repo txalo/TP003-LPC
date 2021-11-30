@@ -48,6 +48,7 @@ td i{
     font-size: .9rem;
     padding: 0.5rem 1rem;    
     background: #90A4AE;
+    margin-bottom: .5rem;
 }
 
 .pill-deg{
@@ -55,5 +56,6 @@ td i{
     color: #fff;    
     font-weight: 400;
     font-size: .9rem;
-    padding: 0.5rem 1rem;    
+    padding: 0.5rem 1rem;
+    margin-bottom: .5rem;    
 }

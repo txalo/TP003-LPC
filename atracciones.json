@@ -1,0 +1,55 @@
+{
+    "Moria": {
+        "costo": 10,
+        "tiempo": 2,
+        "cupo": 6,
+        "tipo": "AVENTURA"
+    },
+    "Minas Tirith": {
+        "costo": 5,
+        "tiempo": 2.5,
+        "cupo": 25,
+        "tipo": "PAISAJE"
+    },
+
+    "La Comarca": {
+        "costo": 3,
+        "tiempo": 6.5,
+        "cupo": 150,
+        "tipo": "DEGUSTACION"
+    },
+
+    "Mordor": {
+        "costo": 25,
+        "tiempo": 3,
+        "cupo": 4,
+        "tipo": "AVENTURA"
+    },
+
+    "Abismo de Helm": {
+        "costo": 5,
+        "tiempo": 2,
+        "cupo": 15,
+        "tipo": "PAISAJE"
+    },
+    "Lothlorien": {
+        "costo": 35,
+        "tiempo": 1,
+        "cupo": 30,
+        "tipo": "DEGUSTACION"
+    },
+
+    "Erebor": {
+        "costo": 12,
+        "tiempo": 3,
+        "cupo": 32,
+        "tipo": "PAISAJE"
+    },
+
+    "Bosque Negro": {
+        "costo": 3,
+        "tiempo": 4,
+        "cupo": 12,
+        "tipo": "AVENTURA"
+    }
+}
